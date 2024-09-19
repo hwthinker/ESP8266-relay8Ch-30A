@@ -1,4 +1,4 @@
-# Modul ESP8266 ESP-12f Relay 8 Channel 10A 
+# Modul ESP8266 ESP-12f Relay 8 Channel 30A 
 ![](https://github.com/hwthinker/esp8266-relay8ch-30A/blob/main/picture/3.png)
 
 
@@ -28,7 +28,7 @@
 - Ulangi prosedur diatas bila upload program lagi.
 
 ## Kode Program
-- Kode program bisa dicek di link https://github.com/hwthinker/esp8266-relay8ch-10A/blob/main/src/main.cpp 
+- Kode program bisa dicek di link https://github.com/hwthinker/ESP8266-relay8Ch-30A/blob/main/src/main.cpp
 
 ## Warning:❗⚠️
 Aktifkan daya untuk menghidupkan alat hanya dengan satu jenis sumber daya, bisa 9VDC atau 5VDC. Jangan menghubungkan beberapa sumber daya secara bersamaan, karena akan menyebabkan kerusakan pada alat.
