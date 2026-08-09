@@ -1,4 +1,21 @@
 # Modul ESP8266 ESP-12f Relay 8 Channel 30A 
+
+<!-- hwthinker-store-links -->
+
+## Beli boardnya & tutorial lengkap
+
+**Board yang dipakai di repo ini tersedia di HwThinker Store:**
+
+- [IOT Modul Relay 30A 8 Channel ch 8ch WIFI ESP-12F ESP8266](https://hwthinker.com/produk/c1272ac2-057f-4e6d-a906-0daa22e0ccf7)
+
+**Tutorial lengkap — langkah bergambar, troubleshooting, dan kode yang sudah diuji:**
+
+- [Modul ESP8266 ESP-12F Relay 8 Channel 30A High Power — Setup Arduino IDE & Shift Register…](https://hwthinker.com/tutorials/esp8266-relay-8ch-30a)
+
+Butuh bantuan pemasangan? Sapa kami lewat live chat di [hwthinker.com](https://hwthinker.com) — barang dikirim dari Surabaya, sudah diuji sebelum dikemas.
+
+<!-- /hwthinker-store-links -->
+
 ![3](./assets/3.png)
 
 ## Cara install plugin Arduino IDE
